@@ -4,3 +4,5 @@
 - To make it retrieve more or less than 100, check out https://github.com/bocchilorenzo/ntscraper for more information.
 
 - First, you must run: **pip install ntscraper**
+
+**Each time, you get: "Fetching error: Instance has been rate limited.Use another instance or try again later.", simply run the code again.**
